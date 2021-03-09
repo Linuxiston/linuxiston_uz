@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=linuxiston
+POSTGRES_USER=beZxLrDlbTtvBoqLZpvQjKGYcqoMISKe
+POSTGRES_PASSWORD=smRkq9hg1X5C1HCRsxgbIybJS3exQslEYJegnVqXfvTReUK0pIwBMpJLqkC6QVu7
