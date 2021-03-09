@@ -61,5 +61,3 @@ services:
     <<: *django
     image: linuxiston_production_flower
     command: /start-flower
-
-  
